@@ -1,2 +1,2 @@
 # test2
-test for github
+test for github commands demo
